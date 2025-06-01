@@ -5,7 +5,7 @@ This is my personal CV built using HTML and CSS. It outlines my background, tech
 ## 📄 Live Preview
 
 You can view the live version of my CV here (optional if hosted):  
-[View Live CV](https://okukubrianokoth.github.io/my-CV/) *(Update this link if hosted)*
+[View Live CV](https://okukubrianokoth.github.io/my-CV/) *(https://okukubrianokoth.github.io/my-CV/)*
 
 ## 👨‍💻 About Me
 
